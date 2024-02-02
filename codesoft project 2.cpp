@@ -1,6 +1,3 @@
-//welcome to the simple calculator program,
-//This program will take two numbers as operand and a operator from user
-// And perform operations(+,-,*,/) on the mentioned operands.
 #include <iostream>
 using namespace std;
 int main() {
