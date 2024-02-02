@@ -8,7 +8,7 @@ int main() {
     int repeat = 1;
     while (repeat) {
         char operation;
-        float num1, num2;
+        float num1,num2,result;
         cout << "Enter two numbers: ";
         cin >> num1 >> num2;
         cout << "Enter operator: +, -, *, /: ";
