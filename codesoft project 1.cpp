@@ -1,3 +1,6 @@
+//welcome to the number guessing game
+//In this game the program will generate a random number and the player has to input numbers 
+//if the random number matches with the player's number then the player wins the game 
 #include <iostream>
 #include <cstdlib>
 #include <ctime>
